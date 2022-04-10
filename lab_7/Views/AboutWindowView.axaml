@@ -1,0 +1,13 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+      Width="300" Height="100"
+		     Title="About"
+        x:Class="lab_7.Views.AboutWindowView"
+        Background="LightBlue"
+		Foreground="Black">
+	Выполнил студент 2-ого курса,
+	группы ИП-015, Маркосян Карен
+</Window>

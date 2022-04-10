@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudentState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StudentState>
+    <Name>Enter a student name</Name>
+    <Grades>
+      <Grade>
+        <Num>0</Num>
+      </Grade>
+      <Grade>
+        <Num>0</Num>
+      </Grade>
+      <Grade>
+        <Num>2</Num>
+      </Grade>
+    </Grades>
+  </StudentState>
+  <StudentState>
+    <Name>Enter a student name</Name>
+    <Grades>
+      <Grade>
+        <Num>0</Num>
+      </Grade>
+      <Grade>
+        <Num>2</Num>
+      </Grade>
+      <Grade>
+        <Num>2</Num>
+      </Grade>
+    </Grades>
+  </StudentState>
+  <StudentState>
+    <Name>Enter a student name</Name>
+    <Grades>
+      <Grade>
+        <Num>0</Num>
+      </Grade>
+      <Grade>
+        <Num>2</Num>
+      </Grade>
+      <Grade>
+        <Num>2</Num>
+      </Grade>
+    </Grades>
+  </StudentState>
+  <StudentState>
+    <Name>Enter a student name</Name>
+    <Grades>
+      <Grade>
+        <Num>0</Num>
+      </Grade>
+      <Grade>
+        <Num>1</Num>
+      </Grade>
+      <Grade>
+        <Num>1</Num>
+      </Grade>
+    </Grades>
+  </StudentState>
+  <StudentState>
+    <Name>Enter a student name</Name>
+    <Grades>
+      <Grade>
+        <Num>0</Num>
+      </Grade>
+      <Grade>
+        <Num>1</Num>
+      </Grade>
+      <Grade>
+        <Num>2</Num>
+      </Grade>
+    </Grades>
+  </StudentState>
+</ArrayOfStudentState>
